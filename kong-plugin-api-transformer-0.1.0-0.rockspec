@@ -1,7 +1,7 @@
 package = "kong-plugin-api-transformer"
 version = "0.1.0-0"
 source = {
-  url = "https://github.com/andersenq/kong-plugin-api-transformer.git",
+  url = "https://github.com/parthasai/kong-plugin-api-transformer.git",
   tag = "0.1.0"
 }
 description = {
