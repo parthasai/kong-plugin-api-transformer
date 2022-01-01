@@ -1,8 +1,7 @@
 package = "kong-plugin-api-transformer"
 version = "0.1.0-0"
 source = {
-  url = "https://github.com/parthasai/kong-plugin-api-transformer.git",
-  tag = "0.1.0"
+  url = "git://github.com/parthasai/kong-plugin-api-transformer",
 }
 description = {
   summary = "A Kong plugin that enables elastic request/response transforming by lua scripts",
